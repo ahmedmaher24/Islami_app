@@ -25,9 +25,9 @@
 ### 🔹 المميزات الأساسية (Core Features)
 واجهات منظمة للوصول السريع للقرآن والأحاديث والخدمات الأخرى.
 
-| القرآن الكريم | الأحاديث النبوية | السبحة الإلكترونية | راديو القرآن | الاذكار ومواعيد الصلاة |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="./image/image2.png" width="200"> | <img src="./image/image3.png" width="200"> | <img src="./image/image4.png" width="200"> | <img src="./image/image5.png" width="200"> | <img src="./image/image7.png" width="250"> |
+|               القرآن الكريم                | الأحاديث النبوية | السبحة الإلكترونية | راديو القرآن | الاذكار ومواعيد الصلاة |
+|:------------------------------------------:|:---:|:---:|:---:|:---:|
+| <img src="./image/image2.png" width="250"> | <img src="./image/image3.png" width="250"> | <img src="./image/image4.png" width="250"> | <img src="./image/image5.png" width="250"> | <img src="./image/image7.png" width="250"> |
 
 ---
 
