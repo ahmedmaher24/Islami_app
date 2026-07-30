@@ -8,11 +8,13 @@
 
 ### 🔹 الهوية والبداية (Identity & Intro)
 تتميز الشاشات بتصميم إسلامي عصري وألوان هادئة.
+<div align="center">
 
-| شاشة البداية (Splash) | اختيار اللغة | التعريف بالتطبيق |
-|:---:|:---:|:---:|
-| <img src="./image/splash.png" width="250"> | <img src="./image/image2.png" width="250"> | <img src="./image/image7.png" width="250"> |
+| شاشة البداية |
+|:-------------:|
+| <img src="./image/splash.png" width="350"> |
 
+</div>
 ### 🔹 رحلة المستخدم (Onboarding Journey)
 شاشات توضيحية لمميزات التطبيق للمستخدم الجديد.
 
@@ -23,9 +25,9 @@
 ### 🔹 المميزات الأساسية (Core Features)
 واجهات منظمة للوصول السريع للقرآن والأحاديث والخدمات الأخرى.
 
-| القرآن الكريم | الأحاديث النبوية | السبحة الإلكترونية | راديو القرآن |
-|:---:|:---:|:---:|:---:|
-| <img src="./image/image3.png" width="200"> | <img src="./image/image4.png" width="200"> | <img src="./image/image5.png" width="200"> | <img src="./image/image6.png" width="200"> |
+| القرآن الكريم | الأحاديث النبوية | السبحة الإلكترونية | راديو القرآن | الاذكار ومواعيد الصلاة |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="./image/image2.png" width="200"> | <img src="./image/image3.png" width="200"> | <img src="./image/image4.png" width="200"> | <img src="./image/image5.png" width="200"> | <img src="./image/image7.png" width="250"> |
 
 ---
 
