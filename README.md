@@ -1,17 +1,52 @@
-# islamic
+# 🕌 Islami App | تطبيق إسلامي
 
-A new Flutter project.
+تطبيق إسلامي متكامل مبني باستخدام **Flutter** يوفر تجربة مستخدم مميزة لقراءة القرآن الكريم، الاستماع للأحاديث النبوية، والتسبيح، ومتابعة إذاعات القرآن الكريم.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 شاشات التطبيق (Screenshots)
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="./image/image1.png" width="30%" />
+  <img src="./image/image2.png" width="30%" />
+  <img src="./image/image3.png" width="30%" />
+</p>
+<p align="center">
+  <img src="./image/image4.png" width="30%" />
+  <img src="./image/image5.png" width="30%" />
+  <img src="./image/image6.png" width="30%" />
+</p>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ المميزات (Features)
+
+*   **📖 القرآن الكريم:** تصفح السور والآيات مع ترقيم دقيق.
+*   **📜 الأحاديث النبوية:** عرض الأحاديث بشكل جذاب باستخدام `CarouselSlider`.
+*   **📿 السبحة الإلكترونية:** عداد تسبيح تفاعلي.
+*   **📻 راديو القرآن:** استماع مباشر للإذاعات والقراء من الـ API.
+*   **🌓 دعم الثيمات:** تصميم متناسق يدعم الوضع الليلي.
+*   **📱 تصميم مستجيب:** استخدام مكتبة `Sizer` لضمان عمل التطبيق على جميع أحجام الشاشات.
+
+---
+
+## 🚀 التقنيات المستخدمة (Technologies)
+
+*   **Flutter & Dart**
+*   **Provider** (State Management)
+*   **Shared Preferences** (للحفظ المحلي)
+*   **Http** (لجلب بيانات الراديو)
+*   **Sizer** (للاستجابة Responsive UI)
+*   **Google Fonts** (الخطوط العربية المميزة)
+
+---
+
+## 🛠️ كيف تبدأ (Getting Started)
+
+1.  قم بتحميل المشروع.
+2.  نفذ الأمر `flutter pub get` لتحميل المكتبات.
+3.  قم بتشغيل التطبيق على المحاكي أو جهازك الخاص.
+
+---
+
+> **ملاحظة:** مجلد الصور `image` موجود في أصل المشروع ولن يتم تضمينه في ملف الـ APK النهائي لضمان صغر حجم التطبيق.
